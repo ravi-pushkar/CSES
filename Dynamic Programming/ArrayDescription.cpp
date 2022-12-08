@@ -2,13 +2,13 @@
 using namespace std;
 #define mod 1000000007
 #define ll long long int
-
+ 
 int main(){
     int n,m;
     cin>>n>>m;
     vector<ll>x(n,0);
     for(int i=0;i<n;i++)cin>>x[i];
-
+ 
     vector<vector<ll>>v(n,vector<ll>(m+2,0));
     if(x[0]==0){
         for(int j=1;j<=m;j++)v[0][j]+=1;
