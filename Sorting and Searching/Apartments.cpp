@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long 
-
+ 
 int main(){
     ll n,m,k;
     int p=0,q=0,ans=0;
