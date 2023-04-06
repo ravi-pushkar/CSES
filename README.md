@@ -1,4 +1,4 @@
 # CSES
-`CSES Problem Solutions`
+`CSES Problem Set Solutions`
 
-The problems can be found @ [Problem Link](https://cses.fi/problemset/)
+CSES Problem Set [https://cses.fi/problemset/](https://cses.fi/problemset/)
